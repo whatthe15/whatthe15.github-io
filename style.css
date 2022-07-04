@@ -1,0 +1,36 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(94,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    
+}
+h1{
+    color: black;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 100%;
+  font-family:Segoe Script;
+  font-size: 4rem;
+  z-index: 100;
+
+}
+h2{
+    color: black;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  width: 100%;
+  font-family: 'The Nautigal', cursive;;
+  font-size: 4rem;
+  z-index: 100;
+
+}
+img{
+    top: 8%;
+    left: 10px;
+    position: absolute;
+
+}
